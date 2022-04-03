@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Snowflake-private" uuid="752a6e47-ef84-482d-b491-1eabae15e921">
+      <driver-ref>snowflake</driver-ref>
+      <synchronize>true</synchronize>
+      <jdbc-driver>net.snowflake.client.jdbc.SnowflakeDriver</jdbc-driver>
+      <jdbc-url>jdbc:snowflake://https://su62048.ap-southeast-2.snowflakecomputing.com:443?warehouse=compute_wh&amp;db=demo_db&amp;schema=public</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
+  </component>
+</project>
